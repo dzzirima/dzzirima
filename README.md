@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David T Zirima</h1>
-<h3 align="center">A self taught back -end developer who builds scalable and secure web applications that exceed your expectations.</h3>
+<h4 align="center">A self taught back -end developer who builds scalable and secure web applications that exceed your expectations.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dzzirima&label=Profile%20views&color=0e75b6&style=flat" alt="dzzirima" /> </p>
 
